@@ -1,0 +1,29 @@
+.btn{
+ 
+    color: greenyellow;
+    width: 200px;
+    background-color: greenyellow;
+    box-shadow: 10px 10px 25px rgb(120, 146, 82);
+}
+.right{
+    background-color: lightseagreen;
+    height: 100%;
+    padding: 74px;
+}
+.body{
+    border: 50px;
+    border-color: black;
+}
+.first{
+    background-color: white;
+    text-align:justify;
+    padding: 50px;
+}
+.second{
+    background-color: rgb(15, 219, 209);
+    color: white;
+    padding: 50px;
+} 
+.text-muted{
+    font-size: 20px;
+}
